@@ -1,0 +1,31 @@
+.body{
+height: 400px;
+margin: 0px ;
+    background-image: url(./download\ \(6\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    display: grid;
+    grid-template-columns: 500px 100px 100px 100px 100px 100px 100px ;
+    margin-left: 140px;
+    margin-top: 40px;
+  
+}
+.item-2{
+    border: 0px;
+    width: 80px;
+    color: aliceblue;
+    background-color: rgb(57, 57, 228);
+    border-radius: 8px
+    
+}
+#cars{
+    border: 0px;
+    background-color: transparent;
+    color: aliceblue;
+}
+.item-4{
+color: aliceblue;
+}
